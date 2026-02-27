@@ -13,7 +13,7 @@ This project is a Full-Cycle Interoperability Engine designed to demonstrate the
 * **AI Diagnostic Viewer**: Interactive brain MRI with toggleable SEG overlays.
 
 ## 🖼 Dashboard Preview
-![Clinical Workspace](./public/workspace_preview.png)
+![Clinical Workspace](./public/DICOM1.png)(./public/DICOM2.png)
 
 ## 📄 Project Documentation
 [Download the Project Brief (PDF)](./DICOM%20Integration%20(1).pdf)
